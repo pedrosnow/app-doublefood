@@ -20,9 +20,9 @@ import {
 import { useNavigation } from "@react-navigation/native";
 import { StackNavigationProp } from '@react-navigation/stack';
 
-import FoodLogo from "../../assets/Group.png"
-import IconSenha from "../../assets/IconSenha.png"
-import IconEmail from "../../assets/icons8-nova-mensagem-100.png"
+import FoodLogo from "../../assets/img/Group.png"
+import IconSenha from "../../assets/img/IconSenha.png"
+import IconEmail from "../../assets/img/icons8-nova-mensagem-100.png"
 import SingInput from "../../components/SingInputInput";
 import { YourNavigationType } from "../../types/StackNavigationProp";
 import Loading from "../../components/loading";

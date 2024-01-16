@@ -1,4 +1,4 @@
-import { lazy } from "react"
+
 import { Modal, View, Text, ActivityIndicator} from "react-native"
 import styled from "styled-components"
 
